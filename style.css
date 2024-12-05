@@ -175,7 +175,6 @@ img {
 .testimonial {
     padding: 60px 0;
 }
-.title {}
 .title h2 {
     text-align: center;
     color: #000;
@@ -196,7 +195,6 @@ img {
 .info-img img {
     width: 120px;
 }
-.more {}
 .more p {
     text-align: justify;
     line-height: 1.5;
