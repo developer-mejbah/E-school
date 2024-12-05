@@ -34,5 +34,11 @@
     color: #fff !important;
     padding: 4px 25px;
     border-radius: 36px;
-    transition: 0.5s;
+}
+.default-btn {
+    display: inline-block;
+    background-color: #21B573;
+    color: #fff !important;
+    padding: 4px 25px;
+    border-radius: 36px;
 }
