@@ -150,12 +150,9 @@ img {
     gap: 10px;
     align-items: center;
 }
-.date-icon {
-}
 .date-icon span {
     color: #585859
 }
-.date-seat {}
 .date-seat p {
     font-size: 14px;
     color: #585859;
@@ -166,11 +163,9 @@ img {
     gap: 10px;
     align-items: center;
 }
-.seat-icon {}
 .seat-icon span {
     color: #585859;
 }
-.seat-number {}
 .seat-number p {
     font-size: 14px;
     color: #585859;
