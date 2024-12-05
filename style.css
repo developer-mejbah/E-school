@@ -200,3 +200,40 @@ img {
     line-height: 1.5;
 }
 /* Testimonial Css end */
+/* Footer Section Start */
+.footer-section {
+    padding: 70px 0;
+    background-color: #282531;
+}
+.footer-row {
+    display: flex;
+    gap: 30px;
+}
+.footer-details {
+    width: 30%;
+}
+.footer-details p {
+    color: #fff;
+    text-align: justify;
+    font-size: 12px;
+    line-height: 2.5;
+    font-weight: 300
+}
+.footer-menu {
+    width: 23.33%;
+    text-align: center;
+}
+.footer-menu h4 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+.footer-menu ul {
+    list-style-type: none;
+}
+.footer-menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+    font-size: 12px;
+}
+/* Footer Section End */
