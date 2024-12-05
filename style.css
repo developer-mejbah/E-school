@@ -171,3 +171,34 @@ img {
     color: #585859;
 }
 /* Course css End */
+/* Testimonial Css start */
+.testimonial {
+    padding: 60px 0;
+}
+.title {}
+.title h2 {
+    text-align: center;
+    color: #000;
+    font-size: 30px;
+    margin-bottom: 38px;
+    font-weight: 500px;
+}
+.info {
+    width: 600px;
+    display: flex ;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+.info-img {
+    width: 100%;
+}
+.info-img img {
+    width: 120px;
+}
+.more {}
+.more p {
+    text-align: justify;
+    line-height: 1.5;
+}
+/* Testimonial Css end */
