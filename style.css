@@ -105,3 +105,74 @@ img {
 .middle-box img {
     width: 66px;
 }
+/* Course css Start */
+.course-section {
+    padding: 40px 0;
+}
+.course-title h2 {
+    text-align: center;
+    color: #413960;
+    font-size: 30px;
+    margin-bottom: 38px;
+    font-weight: 500px;
+    padding-bottom: 30px;
+}
+.row {
+    display: flex;
+    gap: 38px;
+    justify-content: space-between;
+}
+.course-card {
+    width: 33.33%;
+    box-shadow: 0 0 12px rgba(0,0,0,0.5);
+    border-radius: 8px;
+    padding: 26px;
+}
+.course-header h4 {
+    color: #413960;
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.course-header p {
+    color: #585859;
+    margin: 10px 0 16px 0;
+}
+.course-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+    gap: 15px;
+}
+.date {
+    width: 65%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.date-icon {
+}
+.date-icon span {
+    color: #585859
+}
+.date-seat {}
+.date-seat p {
+    font-size: 14px;
+    color: #585859;
+}
+.seat {
+    width: 35%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.seat-icon {}
+.seat-icon span {
+    color: #585859;
+}
+.seat-number {}
+.seat-number p {
+    font-size: 14px;
+    color: #585859;
+}
+/* Course css End */
