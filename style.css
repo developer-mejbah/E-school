@@ -81,3 +81,27 @@ img {
     color: #000;
     margin: 22px 0;
 }
+.middle-section {
+    padding: 60px 0;
+}
+.middle-row {
+    display: flex;
+    gap: 36px;
+    justify-content: space-between;
+    align-items: center;
+}
+.middle-box {
+    width: 25%;
+    padding: 36px;
+    text-align: center;
+    transition: .5s;
+    border-radius: 8px;
+    background-color: #F0FFF0 ;
+}
+.middle-box:hover {
+    box-shadow: 0 0 14px rgba(0,0,0,0.5);
+    cursor: pointer;
+}
+.middle-box img {
+    width: 66px;
+}
