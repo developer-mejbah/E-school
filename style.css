@@ -10,10 +10,29 @@
 }
 .header-section {
 }
-.header-menu {}
-.logo {}
-.logo img {}
-.menu {}
-.menu ul {}
-.menu ul li {}
-.menu ul li a {}
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img {
+    width: 198px;
+}
+.menu ul {
+    list-style-type: none;
+    display: flex;
+    gap: 44px;
+    align-items: center;
+}
+.menu ul li a {
+    text-decoration: none;
+    color: #000;
+}
+.header-btn {
+    display: inline-block;
+    background-color: #21B573;
+    color: #fff !important;
+    padding: 4px 25px;
+    border-radius: 36px;
+    transition: 0.5s;
+}
